@@ -67,8 +67,8 @@
 				F38C7442286A42320060059D /* TableViewController.swift */,
 				F38C7437286A3DD40060059D /* Assets.xcassets */,
 				F38C7439286A3DD40060059D /* LaunchScreen.storyboard */,
-				F38C743C286A3DD40060059D /* Info.plist */,
 				F38C7434286A3DD00060059D /* toDoList.xcdatamodeld */,
+				F38C743C286A3DD40060059D /* Info.plist */,
 			);
 			path = toDoList;
 			sourceTree = "<group>";
